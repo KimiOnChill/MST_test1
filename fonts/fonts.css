@@ -1,0 +1,20 @@
+@font-face {
+  src: 
+    local('Arial'),
+    url(ArialMT.woff) format('woff'),
+    url(ArialMT.woff2) format('woff2');
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  src: 
+    local('Prata'),
+    url(./Prata/Prata-Regular.ttf) format('ttf');
+  font-family: 'Prata';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
